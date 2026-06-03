@@ -10,7 +10,7 @@ _Note: C++ & Python are only **partially** supported by SDCC. Please use with ca
 
 To flash code to your microcontroller, you can use the [STC ISP](https://www.stcmicro.com/rjxz.html). (*You can use the open source version as well. [https://github.com/grigorig/stcgal](https://github.com/grigorig/stcgal)*)
 
-# Bill of Materials
+## Bill of Materials
 | Component | Part Number | Quantity |
 | :--- | :--- | :--- |
 | 100nF Capacitor | 0.1UF(104) +-20% 63v | 1 |
