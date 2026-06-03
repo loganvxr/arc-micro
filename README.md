@@ -22,7 +22,7 @@ To flash code to your microcontroller, you can use the [STC ISP](https://www.stc
 | STC15F2K60S2-28I-PDIP40 | STC15F2K60S2-28I-PDIP40 | 1 |
 | 22.1184MHz Quartz Clock | 7X-22.1184MBD-T | 1 |
 | 8-Pin Female Headers | PPTC081LFBN-RC | 1 |
-| C0603 20µF Capacitor | CC0603MRX5R6BB226 | 2 |
+| 22pF Capacitor | 0402ZA220KAT2A | 2 |
 | USB-C Port | USB-C_SMD-TYPE-C-31-M-12_1 | 1 |
 | 12MHz Crystal Ocsilator | OSC-SMD_4P-L7.0-W5.0-BL | 1 |
 | 6-Pin Female Headers | M20-7820646 | 1 |
