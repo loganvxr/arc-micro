@@ -13,17 +13,15 @@ To flash code to your microcontroller, you can use the [STC ISP](https://www.stc
 ## Bill of Materials
 | Component | Part Number | Quantity |
 | :--- | :--- | :--- |
-| 100nF Capacitor | 0.1UF(104) +-20% 63v | 1 |
-| 10µF Capacitor | 10UF50VC110GL | 1 |
-| 20-Pin Female Headers | Female header1X20P 2.54mm | 1 |
-| 10kΩ Resistor | TA203PA10K0JE | 1 | 
+| 4.7µF Capacitor | 50YXF4R7MEFC5X11 | 1 |
+| 10µF Capacitor | 50YXF10MEFC5X11 | 1 |
+| 100nF Capacitor | CC1H104ZA1ED3F5P1100 | 1 |
+| 13-Pin Female Headers | 2.54-1*13P | 1 |
 | 5.1kΩ Resistor | MF1/2W-5.1KΩ±1%T52 | 2 |
-| RESISTOR PACK SIP-9 | 4609X-101-472LF | 1 |
+| 10kΩ Resistor Array (SIP-9) | A09-103JP | 1 |
 | STC15F2K60S2-28I-PDIP40 | STC15F2K60S2-28I-PDIP40 | 1 |
-| 22.1184MHz Quartz Clock | 7X-22.1184MBD-T | 1 |
-| 8-Pin Female Headers | PPTC081LFBN-RC | 1 |
-| 22pF Capacitor | 0402ZA220KAT2A | 2 |
-| USB-C Port | USB-C_SMD-TYPE-C-31-M-12_1 | 1 |
-| 12MHz Crystal Ocsilator | OSC-SMD_4P-L7.0-W5.0-BL | 1 |
-| 6-Pin Female Headers | M20-7820646 | 1 |
-| CH340G (USB-UART) | CH340G | 1 |
+| 20-Pin Female Headers | 254PM-1x20P-V | 1 |
+| 1µF Capacitor | FG24X7R1H105KRT06 | 1 |
+| CP2102N USB-UART Bridge | CP2102N-A02-GQFN20 | 1 |
+| USB-C Port | TYPE-C-31-M-12 | 1 |
+| 10kΩ Resistor | MF1/4W-10KΩ±1%-ST52 | 1 |
