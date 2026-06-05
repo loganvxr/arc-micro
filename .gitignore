@@ -1,1 +1,18 @@
+# VSCode files
 .vscode/
+
+# SDCC Build Files
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.asm
+*.hex
+build/
+
+# To-Do List
+todo

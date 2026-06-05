@@ -4,11 +4,14 @@ Arc Micro features a STC15F2K60S2 with 60KB of flash memory, and built-in EEPROM
 ![image.png](images/image.png)
 
 ## General Usage
-To start writing firmware for your microcontroller you can use [SDCC](https://sdcc.sourceforge.net/) and write code in C or Assembly. 
+To begin writing firmware for your microcontroller you can use C or Assembly.  
+To compile you can use the `arc-builder.sh` file.
 
 _Note: C++ & Python are only **partially** supported by SDCC. Please use with caution._
 
-To flash code to your microcontroller, you can use the [STC ISP](https://www.stcmicro.com/rjxz.html). (*You can use the open source version as well. [https://github.com/grigorig/stcgal](https://github.com/grigorig/stcgal)*)
+To flash code to your microcontroller, you can use the [STC ISP](https://www.stcmicro.com/rjxz.html). (*You can use the open source version as well. [https://github.com/grigorig/stcgal](https://github.com/grigorig/stcgal)*)  
+
+Documentation for each library is located in the firmware/libs/ sub-folders in the `DOCUMENTATION.md` file.
 
 ## Bill of Materials
 | Component | Part Number | Quantity |
